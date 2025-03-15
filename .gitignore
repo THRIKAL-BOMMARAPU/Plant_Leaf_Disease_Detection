@@ -8,10 +8,6 @@ __pycache__/
 venv/
 .env/
 
-# Ignore model files (optional)
-*.h5
-*.keras
-
 # Ignore Streamlit cache
 .streamlit/
 
